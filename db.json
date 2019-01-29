@@ -1,5 +1,5 @@
     {
-    	"http_status": 200,
+    	"getBusinessPlans": {"http_status": 200,
     	"business_plans": [{
     			"business_id": 1,
     			"business_name": "Vulputate Aenean Vestibulum"
@@ -9,5 +9,5 @@
     			"business_name": "Ornare Ultricies Ligula"
     		}
     	]
-
+                            }
     }
