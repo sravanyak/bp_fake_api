@@ -3,12 +3,33 @@
     		"http_status": 200,
     		"business_plans": [{
     				"business_id": 1,
-    				"business_name": "Vulputate Aenean Vestibulum"
+    				"business_name": "Business Plan"
     			},
     			{
     				"business_id": 2,
-    				"business_name": "Ornare Ultricies Ligula"
+    				"business_name": "AppIt Ventures"
+    			},
+    			{
+    				"business_id": 3,
+    				"business_name": "Rackfest"
+    			},
+    			{
+    				"business_id": 4,
+    				"business_name": "Draw Notes"
+    			},
+    			{
+    				"business_id": 5,
+    				"business_name": "Elevation AutoCore"
+    			},
+    			{
+    				"business_id": 6,
+    				"business_name": "UXDevs"
+    			},
+    			{
+    				"business_id": 7,
+    				"business_name": "SOC"
     			}
+                               
     		]
     	},
     	"getBusinessPlanDetails": {
