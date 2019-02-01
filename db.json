@@ -33,7 +33,6 @@
     		]
     	},
     	"getBusinessPlanDetails": {
-    		"1": {
     			"http_status": 200,
     			"business_plan": {
     				"overview": {
@@ -110,6 +109,5 @@
     					}
     				}
     			}
-    		}
     	}
     }
