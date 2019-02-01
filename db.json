@@ -34,7 +34,7 @@
     	},
     	"getBusinessPlanDetails": {
     			"http_status": 200,
-    			"business_plan": {
+    			
     				"overview": {
     					"business_name": "Pellentesque Dolor"
     					},
@@ -104,6 +104,6 @@
     						"tax_rate": 53
     					}
     				}
-    			}
+    			
     	}
     }
