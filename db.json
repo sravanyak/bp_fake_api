@@ -38,7 +38,7 @@
     			"business_date": "2019-01-09T13:50:34.000Z",
     			"intended_audience": "Tortor Mattis",
     			"currency": "USD",
-    			"owners": "['MG','Sravanya','Malathi','Kiran','Rashida','Kalyan']",
+    			"owners": ['MG','Sravanya','Malathi','Kiran','Rashida','Kalyan'],
     			"business_overview": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit..."
     		},
     		"vision": {
@@ -115,7 +115,7 @@
     			"business_date": "2019-01-30T13:50:34.000Z",
     			"intended_audience": "Web Developers",
     			"currency": "USD",
-                "owners": "['Sravanya','Malathi','Rashida','Kiran','Sudheer']",
+                "owners": ['Sravanya','Malathi','Rashida','Kiran','Sudheer'],
     			"business_overview": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit..."
     		},
     		"vision": {
