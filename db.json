@@ -28,6 +28,10 @@
     			{
     				"business_id": 7,
     				"business_name": "Hello"
+    			},
+    			{
+    				"business_id": 8,
+    				"business_name": "Elevation energy"
     			}
     		]
     	},
@@ -46,6 +50,40 @@
     			"mission_statement": "Dapibus Ipsum Etiam Nullam Parturient..",
     			"goals_and_objectives": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet.",
     			"strategy": "Euismod Ligula Ultricies Quam Malesuada.."
+    		},
+    		"product_description": {
+    			"description_of_product_or_service": "Donec ullamcorper nulla non metus auctor fringilla."
+    		},
+    		"target_market": {
+    			"geographic": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"demographic": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"psychographic": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"behavioral": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"market_size_and_growth_rate": "Donec ullamcorper nulla non metus auctor fringilla."
+    		},
+    		"competition": {
+    			"direct_competitors": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"buyers": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"suppliers": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"substitutes": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"new_entrants": "Donec ullamcorper nulla non metus auctor fringilla."
+    		},
+    		"marketing_plan": {
+    			"product_price_place_promotion": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"messaging_and_positional_statment": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"sales_and_business_development": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"measuring_strategy": "Donec ullamcorper nulla non metus auctor fringilla."
+    		},
+    		"swot_analysis": {
+    			"strengths": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"weaknesses": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"opportunities": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"treats": "Donec ullamcorper nulla non metus auctor fringilla."
+    		},
+    		"management": {
+    			"management_and_employee_summary": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"board_of_advisiors": "Donec ullamcorper nulla non metus auctor fringilla.",
+    			"culture": "Donec ullamcorper nulla non metus auctor fringilla."
     		},
     		"start_up_expenses": {
     			"one_time_expenses": {
@@ -106,6 +144,72 @@
     				"other_expenses": 33,
     				"tax_rate": 53
     			}
+    		},
+    		"balance_sheet": {
+    			"first_year": {
+    				"year": 2018,
+    				"cash": 2.99,
+    				"account_receivable": 3,
+    				"inventory": 3,
+    				"short_term_investment": 3,
+    				"long_term_investment": 3,
+    				"ppe": 3,
+    				"accumulated_depreciation": 3,
+    				"intangible_assets": 3,
+    				"accounts_payable": 3,
+    				"short_term_debt": 3,
+    				"income_taxes_payable": 3,
+    				"accrued_salaries": 3,
+    				"unearned_revenue": 3,
+    				"other_current_liabilities": 3,
+    				"long_term_debt": 3,
+    				"owners_investment": 3,
+    				"retained_earnings": 3
+    			},
+    			"second_year": {
+    				"year": 2019,
+    				"cash": 2.19,
+    				"account_receivable": 3,
+    				"inventory": 3,
+    				"short_term_investment": 3,
+    				"long_term_investment": 3,
+    				"ppe": 3,
+    				"accumulated_depreciation": 3,
+    				"intangible_assets": 3,
+    				"accounts_payable": 3,
+    				"short_term_debt": 3,
+    				"income_taxes_payable": 3,
+    				"accrued_salaries": 3,
+    				"unearned_revenue": 3,
+    				"other_current_liabilities": 3,
+    				"long_term_debt": 3,
+    				"owners_investment": 3,
+    				"retained_earnings": 3
+    			},
+    			"third_year": {
+    				"year": 2020,
+    				"cash": 2.20,
+    				"account_receivable": 3,
+    				"inventory": 3,
+    				"short_term_investment": 3,
+    				"long_term_investment": 3,
+    				"ppe": 3,
+    				"accumulated_depreciation": 3,
+    				"intangible_assets": 3,
+    				"accounts_payable": 3,
+    				"short_term_debt": 3,
+    				"income_taxes_payable": 3,
+    				"accrued_salaries": 3,
+    				"unearned_revenue": 3,
+    				"other_current_liabilities": 3,
+    				"long_term_debt": 3,
+    				"owners_investment": 3,
+    				"retained_earnings": 3
+    			},
+    			"explain_balance_sheet": "Justo Elit Purus Cursus Ligula.."
+    		},
+    		"executive_summary": {
+    			"executive_summary": "Nullam Ipsum Sem Parturient Commodo.."
     		}
     	},
     	"getBusinessPlanDetails0": {
