@@ -28,10 +28,6 @@
     			{
     				"business_id": 7,
     				"business_name": "Hello"
-    			},
-    			{
-    				"business_id": 8,
-    				"business_name": "Elevation energy"
     			}
     		]
     	},
@@ -236,18 +232,6 @@
     				"strategy": "Euismod Ligula Ultricies Quam Malesuada.."
     			},
     			"start_up_expenses": {
-    				"one_time_expenses": {
-    					"business_licenses_and_fees": 2.99,
-    					"legal": 3.44,
-    					"website_development": 3.54,
-    					"real_estate_down_payment": 1,
-    					"decorating_and_remodeling": 5.88,
-    					"operational_supplies": 11.97,
-    					"furniture_and_computer_supplies": 4.7,
-    					"initial_advertising": 2.5,
-    					"starting_inventory": 5.6,
-    					"property_plant_and_equipment": 7.1
-    				},
     				"recurring_monthly_expenses": {
     					"months_before_launch": 2.99,
     					"real_estate_expenses": 3.44,
@@ -266,21 +250,6 @@
     				"sources_and_use_of_funds": "Tortor Aenean Ipsum Dolor Lorem..",
     				"first_year": {
     					"year": 2018,
-    					"gross_sales": 22.99,
-    					"other_income": 32,
-    					"direct_cost_of_sales": 32,
-    					"advertising": 32,
-    					"payroll": 32,
-    					"supplies": 334,
-    					"utilities": 33,
-    					"real_estate_example": 32,
-    					"interest": 43,
-    					"insurance": 43,
-    					"other_expenses": 33,
-    					"tax_rate": 53
-    				},
-    				"second_year": {
-    					"year": 2019,
     					"gross_sales": 22.99,
     					"other_income": 32,
     					"direct_cost_of_sales": 32,
