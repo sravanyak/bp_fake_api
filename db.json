@@ -31,7 +31,7 @@
     			}
     		]
     	},
-    	"businessPlan/1": {
+    	"businessPlan1": {
     		"http_status": 200,
     		"business_plan": {
     			"created_on": "2019-01-09 19:20:34",
@@ -212,7 +212,7 @@
     			}
     		}
     	},
-    	"businessPlan/0": {
+    	"businessPlan2": {
     		"http_status": 200,
     		"business_plan": {
     			"created_on": "2019-01-09 19:20:34",
