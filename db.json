@@ -1,5 +1,5 @@
     {
-    	"getBusinessPlans": {
+    	"businessPlan": {
     		"http_status": 200,
     		"business_plans": [{
     				"business_id": 1,
@@ -31,7 +31,7 @@
     			}
     		]
     	},
-    	"getBusinessPlanDetails1": {
+    	"businessPlan/1": {
     		"http_status": 200,
     		"business_plan": {
     			"created_on": "2019-01-09 19:20:34",
@@ -212,7 +212,7 @@
     			}
     		}
     	},
-    	"getBusinessPlanDetails0": {
+    	"businessPlan/0": {
     		"http_status": 200,
     		"business_plan": {
     			"created_on": "2019-01-09 19:20:34",
